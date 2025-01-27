@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "strict": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "baseUrl": "./",
+    "paths": {
+      "@utils/*": ["src/helpers/*"]
+      }
+  },
+  "include": ["src/**/*.ts", "tests/**/*.ts", "src/configs/playwright.config.ts"],
+  "exclude": ["node_modules"]
+}

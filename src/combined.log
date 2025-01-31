@@ -1,0 +1,729 @@
+2025-01-31 06:11:32 [info]: Sleeping for 0.08121864325348352 seconds
+2025-01-31 06:11:33 [info]: Sleeping for 0.06852687688010929 seconds
+2025-01-31 06:11:33 [info]: Мышь перемещена к (888, 442)
+2025-01-31 06:11:33 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:11:33 [info]: Browser setup successful
+2025-01-31 06:12:04 [error]: Error during booking process: page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:649:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:12:04 [info]: Browser context closed
+2025-01-31 06:12:04 [info]: Temporary profiles directory removed
+2025-01-31 06:12:04 [info]: Sleeping for 2 seconds
+2025-01-31 06:12:07 [info]: Sleeping for 0.04253912105259035 seconds
+2025-01-31 06:12:07 [info]: Sleeping for 0.0575739040710337 seconds
+2025-01-31 06:12:07 [info]: Sleeping for 0.07613735448045676 seconds
+2025-01-31 06:12:07 [info]: Мышь перемещена к (103, 633)
+2025-01-31 06:12:07 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:12:07 [info]: Browser setup successful
+2025-01-31 06:12:38 [error]: Error during booking process: page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:649:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:12:38 [info]: Browser context closed
+2025-01-31 06:12:38 [info]: Temporary profiles directory removed
+2025-01-31 06:12:38 [info]: Sleeping for 1 seconds
+2025-01-31 06:12:40 [info]: Sleeping for 0.0607081673258765 seconds
+2025-01-31 06:12:40 [info]: Sleeping for 0.024571824770183923 seconds
+2025-01-31 06:12:40 [info]: Sleeping for 0.08943060912962755 seconds
+2025-01-31 06:12:40 [info]: Sleeping for 0.06301779040103828 seconds
+2025-01-31 06:12:40 [info]: Sleeping for 0.025338254471548787 seconds
+2025-01-31 06:12:40 [info]: Мышь перемещена к (192, 472)
+2025-01-31 06:12:40 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:12:40 [info]: Browser setup successful
+2025-01-31 06:13:12 [error]: Error during booking process: page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:649:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:13:12 [info]: Browser context closed
+2025-01-31 06:13:12 [info]: Temporary profiles directory removed
+2025-01-31 06:13:12 [info]: Sleeping for 2 seconds
+2025-01-31 06:13:15 [info]: Sleeping for 0.07883194953528515 seconds
+2025-01-31 06:13:15 [info]: Sleeping for 0.03107625856915135 seconds
+2025-01-31 06:13:15 [info]: Sleeping for 0.02470033514282969 seconds
+2025-01-31 06:13:15 [info]: Sleeping for 0.026540830103511156 seconds
+2025-01-31 06:13:15 [info]: Мышь перемещена к (223, 478)
+2025-01-31 06:13:15 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:13:15 [info]: Browser setup successful
+2025-01-31 06:13:41 [info]: Checking if IP is blocked...
+2025-01-31 06:13:41 [info]: Sleeping for 2 seconds
+2025-01-31 06:13:43 [info]: IP block check result: not blocked
+2025-01-31 06:13:43 [info]: Mouse moved to center of element at (1185.3624877929688, 54.00000190734863)
+2025-01-31 06:13:44 [info]: Element clicked
+2025-01-31 06:13:44 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:13:44 [info]: Language selector found and clicked
+2025-01-31 06:13:44 [info]: Sleeping for 2 seconds
+2025-01-31 06:13:46 [info]: Mouse moved to center of element at (1178.1250610351562, 259.5)
+2025-01-31 06:13:46 [info]: Element clicked
+2025-01-31 06:13:46 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:13:47 [info]: Russian language selected
+2025-01-31 06:13:47 [info]: Mouse moved to center of element at (781.5999908447266, 360.1000061035156)
+2025-01-31 06:13:47 [info]: Element clicked
+2025-01-31 06:13:47 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:13:49 [info]: Place selection button clicked
+2025-01-31 06:13:49 [info]: Filling text slowly: Almati
+2025-01-31 06:13:49 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:13:50 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:13:50 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:13:51 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:13:51 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:13:51 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:13:52 [info]: Search input filled with "Almati"
+2025-01-31 06:13:52 [info]: Mouse moved to center of element at (493.9250030517578, 385)
+2025-01-31 06:13:52 [info]: Element clicked
+2025-01-31 06:13:52 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:13:53 [info]: Almati selected
+2025-01-31 06:13:53 [info]: Sleeping for 1 seconds
+2025-01-31 06:13:54 [info]: Mouse moved to center of element at (781.5999908447266, 551.7000122070312)
+2025-01-31 06:13:54 [info]: Element clicked
+2025-01-31 06:13:54 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:13:55 [info]: Case selection button clicked
+2025-01-31 06:13:55 [info]: Sleeping for 2 seconds
+2025-01-31 06:13:57 [info]: Mouse moved to center of element at (574.0875091552734, 185.1999969482422)
+2025-01-31 06:13:57 [info]: Element clicked
+2025-01-31 06:13:57 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:13:58 [info]: Visa case selected
+2025-01-31 06:13:58 [info]: Sleeping for 1 seconds
+2025-01-31 06:14:00 [info]: Mouse moved to center of element at (812.1437683105469, 632.6000061035156)
+2025-01-31 06:14:00 [info]: Element clicked
+2025-01-31 06:14:00 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:14:00 [info]: Case selection modal closed
+2025-01-31 06:14:00 [info]: Filling text slowly: Daneel Gromov
+2025-01-31 06:14:00 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:14:03 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:04 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:05 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:06 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:07 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:08 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:09 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:10 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:12 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:12 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:13 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:13 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:14 [info]: Sleeping for 10 seconds
+2025-01-31 06:14:25 [info]: Filling text slowly: 05.03.2001
+2025-01-31 06:14:25 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:26 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:26 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:27 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:29 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:29 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:29 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:30 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:32 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:33 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:34 [info]: Sleeping for 5 seconds
+2025-01-31 06:14:39 [info]: Filling text slowly: +79685172727
+2025-01-31 06:14:39 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:39 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:40 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:40 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:40 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:41 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:43 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:44 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:45 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:45 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:46 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:46 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:47 [info]: Sleeping for 7 seconds
+2025-01-31 06:14:54 [info]: Filling text slowly: vsckzagency@gmail.com
+2025-01-31 06:14:54 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:55 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:56 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:57 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:14:58 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:59 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:14:59 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:00 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:00 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:01 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:01 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:01 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:03 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:04 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:04 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:06 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:07 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:08 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:09 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:10 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:11 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:12 [info]: Sleeping for 7 seconds
+2025-01-31 06:15:19 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:15:21 [info]: Clicked and focused on element at (781.5999908447266, 544.6000061035156)
+2025-01-31 06:15:21 [info]: Filling text slowly: vsckzagency@gmail.com
+2025-01-31 06:15:21 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:22 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:23 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:24 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:26 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:26 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:26 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:27 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:28 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:28 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:28 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:29 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:29 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:30 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:31 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:31 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:33 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:33 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:15:35 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:37 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:38 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:38 [info]: Filled repeat email in the last visible input field
+2025-01-31 06:15:38 [info]: Sleeping for 5 seconds
+2025-01-31 06:15:43 [info]: Filling text slowly: 4523666234
+2025-01-31 06:15:43 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:43 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:44 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:44 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:44 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:45 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:47 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:48 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:15:48 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:49 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:15:50 [info]: Sleeping for 8 seconds
+2025-01-31 06:15:59 [info]: Mouse moved to center of element at (503.1000213623047, 657.1000366210938)
+2025-01-31 06:15:59 [info]: Element clicked
+2025-01-31 06:15:59 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:16:00 [info]: First checkbox checked
+2025-01-31 06:16:00 [info]: Sleeping for 3 seconds
+2025-01-31 06:16:03 [info]: Mouse moved to center of element at (503.1000213623047, 748.2999877929688)
+2025-01-31 06:16:03 [info]: Element clicked
+2025-01-31 06:16:03 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:16:04 [info]: Second checkbox checked
+2025-01-31 06:16:04 [info]: Sleeping for 2 seconds
+2025-01-31 06:16:06 [info]: Sleeping for 2 seconds
+2025-01-31 06:16:08 [info]: Mouse moved to center of element at (781.5999908447266, 483.00001525878906)
+2025-01-31 06:16:08 [info]: Element clicked
+2025-01-31 06:16:08 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:16:09 [info]: Go button clicked
+2025-01-31 06:16:09 [info]: Sleeping for 3 seconds
+2025-01-31 06:17:12 [error]: Error in completing booking: locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:465:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:17:12 [error]: Error during booking process: Error in CompleteBooking
+Error: Error in CompleteBooking
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:553:23
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.throw (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at rejected (C:\Projects\Cons_Reg_TS\src\HU_booking.js:6:65)
+2025-01-31 06:17:12 [info]: Browser context closed
+2025-01-31 06:17:12 [info]: Temporary profiles directory removed
+2025-01-31 06:17:12 [info]: Sleeping for 1 seconds
+2025-01-31 06:17:14 [info]: Sleeping for 0.03445435642942577 seconds
+2025-01-31 06:17:14 [info]: Sleeping for 0.07070756224433485 seconds
+2025-01-31 06:17:14 [info]: Sleeping for 0.08166778074467743 seconds
+2025-01-31 06:17:14 [info]: Sleeping for 0.0995561249679498 seconds
+2025-01-31 06:17:14 [info]: Sleeping for 0.039484984400921144 seconds
+2025-01-31 06:17:14 [info]: Sleeping for 0.023085927203313653 seconds
+2025-01-31 06:17:14 [info]: Sleeping for 0.06103340847941732 seconds
+2025-01-31 06:17:14 [info]: Sleeping for 0.06811728508418328 seconds
+2025-01-31 06:17:14 [info]: Мышь перемещена к (1090, 530)
+2025-01-31 06:17:14 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:17:14 [info]: Browser setup successful
+2025-01-31 06:17:39 [info]: Checking if IP is blocked...
+2025-01-31 06:17:39 [info]: Sleeping for 3 seconds
+2025-01-31 06:17:42 [info]: IP block check result: not blocked
+2025-01-31 06:17:42 [info]: Mouse moved to center of element at (1185.3624877929688, 54.00000190734863)
+2025-01-31 06:17:42 [info]: Element clicked
+2025-01-31 06:17:42 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:17:43 [info]: Language selector found and clicked
+2025-01-31 06:17:43 [info]: Sleeping for 2 seconds
+2025-01-31 06:17:46 [info]: Mouse moved to center of element at (1178.1250610351562, 259.5)
+2025-01-31 06:17:46 [info]: Element clicked
+2025-01-31 06:17:46 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:17:47 [info]: Russian language selected
+2025-01-31 06:17:47 [info]: Mouse moved to center of element at (781.5999908447266, 360.1000061035156)
+2025-01-31 06:17:47 [info]: Element clicked
+2025-01-31 06:17:47 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:17:49 [info]: Place selection button clicked
+2025-01-31 06:17:49 [info]: Filling text slowly: Almati
+2025-01-31 06:17:49 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:17:50 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:17:52 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:17:52 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:17:52 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:17:54 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:17:55 [info]: Search input filled with "Almati"
+2025-01-31 06:17:55 [info]: Mouse moved to center of element at (493.9250030517578, 385)
+2025-01-31 06:17:55 [info]: Element clicked
+2025-01-31 06:17:55 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:17:56 [info]: Almati selected
+2025-01-31 06:17:56 [info]: Sleeping for 2 seconds
+2025-01-31 06:17:59 [info]: Mouse moved to center of element at (781.5999908447266, 503.6999969482422)
+2025-01-31 06:17:59 [info]: Element clicked
+2025-01-31 06:17:59 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:18:00 [info]: Case selection button clicked
+2025-01-31 06:18:00 [info]: Sleeping for 1 seconds
+2025-01-31 06:18:01 [info]: Mouse moved to center of element at (574.0875091552734, 185.1999969482422)
+2025-01-31 06:18:01 [info]: Element clicked
+2025-01-31 06:18:01 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:18:03 [info]: Visa case selected
+2025-01-31 06:18:03 [info]: Sleeping for 3 seconds
+2025-01-31 06:18:06 [info]: Mouse moved to center of element at (812.1437683105469, 632.6000061035156)
+2025-01-31 06:18:06 [info]: Element clicked
+2025-01-31 06:18:06 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:18:07 [info]: Case selection modal closed
+2025-01-31 06:18:07 [info]: Filling text slowly: Daneel Gromov
+2025-01-31 06:18:07 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:08 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:08 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:09 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:10 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:11 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:11 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:12 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:14 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:15 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:15 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:15 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:16 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:17 [info]: Sleeping for 6 seconds
+2025-01-31 06:18:23 [info]: Filling text slowly: 05.03.2001
+2025-01-31 06:18:23 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:24 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:25 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:25 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:26 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:27 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:28 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:28 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:29 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:29 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:29 [info]: Sleeping for 9 seconds
+2025-01-31 06:18:38 [info]: Filling text slowly: +79685172727
+2025-01-31 06:18:39 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:40 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:40 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:40 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:40 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:42 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:43 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:44 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:45 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:45 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:46 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:47 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:48 [info]: Sleeping for 5 seconds
+2025-01-31 06:18:53 [info]: Filling text slowly: vsckzagency@gmail.com
+2025-01-31 06:18:54 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:55 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:55 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:56 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:57 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:18:58 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:18:58 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:19:00 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:19:02 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:04 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:04 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:05 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:19:08 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:08 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:19:10 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:11 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:11 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:12 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:13 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:13 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:14 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:16 [info]: Sleeping for 9 seconds
+2025-01-31 06:19:25 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:19:25 [info]: Clicked and focused on element at (781.5999908447266, 544.6000061035156)
+2025-01-31 06:19:25 [info]: Filling text slowly: vsckzagency@gmail.com
+2025-01-31 06:19:25 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:26 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:27 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:28 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:29 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:30 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:31 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:32 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:33 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:33 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:34 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:34 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:35 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:36 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:38 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:38 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:38 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:39 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:40 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:41 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:19:43 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:43 [info]: Filled repeat email in the last visible input field
+2025-01-31 06:19:43 [info]: Sleeping for 10 seconds
+2025-01-31 06:19:53 [info]: Filling text slowly: 4523666234
+2025-01-31 06:19:53 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:54 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:19:54 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:19:56 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:57 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:19:59 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:20:00 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:20:02 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:20:04 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:20:04 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:20:05 [info]: Sleeping for 5 seconds
+2025-01-31 06:20:10 [info]: Mouse moved to center of element at (503.1000213623047, 657.1000366210938)
+2025-01-31 06:20:10 [info]: Element clicked
+2025-01-31 06:20:10 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:20:11 [info]: First checkbox checked
+2025-01-31 06:20:11 [info]: Sleeping for 3 seconds
+2025-01-31 06:20:14 [info]: Mouse moved to center of element at (503.1000213623047, 748.2999877929688)
+2025-01-31 06:20:15 [info]: Element clicked
+2025-01-31 06:20:15 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:20:16 [info]: Second checkbox checked
+2025-01-31 06:20:16 [info]: Sleeping for 1 seconds
+2025-01-31 06:20:17 [info]: Sleeping for 3 seconds
+2025-01-31 06:20:20 [info]: Mouse moved to center of element at (781.5999908447266, 483.00001525878906)
+2025-01-31 06:20:20 [info]: Element clicked
+2025-01-31 06:20:20 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:20:22 [info]: Go button clicked
+2025-01-31 06:20:22 [info]: Sleeping for 2 seconds
+2025-01-31 06:21:24 [error]: Error in completing booking: locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:465:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:21:24 [error]: Error during booking process: Error in CompleteBooking
+Error: Error in CompleteBooking
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:553:23
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.throw (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at rejected (C:\Projects\Cons_Reg_TS\src\HU_booking.js:6:65)
+2025-01-31 06:21:24 [info]: Browser context closed
+2025-01-31 06:21:24 [info]: Temporary profiles directory removed
+2025-01-31 06:21:24 [info]: Sleeping for 2 seconds
+2025-01-31 06:21:27 [info]: Sleeping for 0.08320575587174776 seconds
+2025-01-31 06:21:27 [info]: Sleeping for 0.08434972110823646 seconds
+2025-01-31 06:21:27 [info]: Sleeping for 0.02728922815640182 seconds
+2025-01-31 06:21:27 [info]: Sleeping for 0.08077161628357829 seconds
+2025-01-31 06:21:27 [info]: Sleeping for 0.04292334117550821 seconds
+2025-01-31 06:21:27 [info]: Sleeping for 1.0270314200111945 seconds
+2025-01-31 06:21:28 [info]: Sleeping for 0.026820012276009778 seconds
+2025-01-31 06:21:28 [info]: Sleeping for 0.02544770446662291 seconds
+2025-01-31 06:21:28 [info]: Мышь перемещена к (392, 13)
+2025-01-31 06:21:28 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:21:29 [info]: Browser setup successful
+2025-01-31 06:22:00 [error]: Error during booking process: page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:649:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:22:00 [info]: Browser context closed
+2025-01-31 06:22:00 [info]: Temporary profiles directory removed
+2025-01-31 06:22:00 [info]: Sleeping for 1 seconds
+2025-01-31 06:22:01 [info]: Sleeping for 0.03674886433451409 seconds
+2025-01-31 06:22:01 [info]: Sleeping for 0.021740837873749842 seconds
+2025-01-31 06:22:01 [info]: Sleeping for 0.09174455329322408 seconds
+2025-01-31 06:22:02 [info]: Sleeping for 0.07802245579096473 seconds
+2025-01-31 06:22:02 [info]: Мышь перемещена к (568, 677)
+2025-01-31 06:22:02 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:22:02 [info]: Browser setup successful
+2025-01-31 06:22:22 [info]: Checking if IP is blocked...
+2025-01-31 06:22:22 [info]: Sleeping for 2 seconds
+2025-01-31 06:22:24 [info]: IP block check result: not blocked
+2025-01-31 06:22:24 [info]: Mouse moved to center of element at (1185.3624877929688, 54.00000190734863)
+2025-01-31 06:22:24 [info]: Element clicked
+2025-01-31 06:22:24 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:22:24 [info]: Language selector found and clicked
+2025-01-31 06:22:24 [info]: Sleeping for 2 seconds
+2025-01-31 06:22:27 [info]: Mouse moved to center of element at (1178.1250610351562, 259.5)
+2025-01-31 06:22:27 [info]: Element clicked
+2025-01-31 06:22:27 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:22:28 [info]: Russian language selected
+2025-01-31 06:22:28 [info]: Mouse moved to center of element at (781.5999908447266, 360.1000061035156)
+2025-01-31 06:22:28 [info]: Element clicked
+2025-01-31 06:22:28 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:22:29 [info]: Place selection button clicked
+2025-01-31 06:22:29 [info]: Filling text slowly: Almati
+2025-01-31 06:22:29 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:22:31 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:22:33 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:22:33 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:22:33 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:22:34 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:22:35 [info]: Search input filled with "Almati"
+2025-01-31 06:22:36 [info]: Mouse moved to center of element at (493.9250030517578, 385)
+2025-01-31 06:22:36 [info]: Element clicked
+2025-01-31 06:22:36 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:22:36 [info]: Almati selected
+2025-01-31 06:22:36 [info]: Sleeping for 3 seconds
+2025-01-31 06:22:40 [info]: Mouse moved to center of element at (781.5999908447266, 503.6999969482422)
+2025-01-31 06:22:40 [info]: Element clicked
+2025-01-31 06:22:40 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:22:41 [info]: Case selection button clicked
+2025-01-31 06:22:41 [info]: Sleeping for 2 seconds
+2025-01-31 06:22:43 [info]: Mouse moved to center of element at (574.0875091552734, 185.1999969482422)
+2025-01-31 06:22:43 [info]: Element clicked
+2025-01-31 06:22:43 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:22:45 [info]: Visa case selected
+2025-01-31 06:22:45 [info]: Sleeping for 1 seconds
+2025-01-31 06:22:46 [info]: Mouse moved to center of element at (812.1437683105469, 632.6000061035156)
+2025-01-31 06:22:46 [info]: Element clicked
+2025-01-31 06:22:46 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:22:48 [info]: Case selection modal closed
+2025-01-31 06:22:48 [info]: Filling text slowly: Daneel Gromov
+2025-01-31 06:22:48 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:22:49 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:22:50 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:22:51 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:22:52 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:22:53 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:22:53 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:22:54 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:22:56 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:22:58 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:22:59 [info]: Sleeping for 2.1 seconds
+2025-01-31 06:23:01 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:03 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:04 [info]: Sleeping for 10 seconds
+2025-01-31 06:23:14 [info]: Filling text slowly: 05.03.2001
+2025-01-31 06:23:14 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:14 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:16 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:16 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:16 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:17 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:17 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:17 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:18 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:19 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:20 [info]: Sleeping for 6 seconds
+2025-01-31 06:23:26 [info]: Filling text slowly: +79685172727
+2025-01-31 06:23:26 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:27 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:27 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:29 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:30 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:31 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:31 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:33 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:34 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:34 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:35 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:36 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:36 [info]: Sleeping for 6 seconds
+2025-01-31 06:23:42 [info]: Filling text slowly: vsckzagency@gmail.com
+2025-01-31 06:23:42 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:43 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:44 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:44 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:44 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:44 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:46 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:47 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:47 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:48 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:50 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:51 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:51 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:53 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:53 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:54 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:55 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:56 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:56 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:56 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:23:57 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:23:58 [info]: Sleeping for 6 seconds
+2025-01-31 06:24:04 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:24:05 [info]: Clicked and focused on element at (781.5999908447266, 544.6000061035156)
+2025-01-31 06:24:05 [info]: Filling text slowly: vsckzagency@gmail.com
+2025-01-31 06:24:05 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:07 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:07 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:07 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:07 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:08 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:09 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:09 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:11 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:12 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:13 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:13 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:13 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:15 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:15 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:16 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:18 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:18 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:19 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:20 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:22 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:23 [info]: Filled repeat email in the last visible input field
+2025-01-31 06:24:23 [info]: Sleeping for 8 seconds
+2025-01-31 06:24:31 [info]: Filling text slowly: 4523666234
+2025-01-31 06:24:31 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:31 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:32 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:33 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:33 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:34 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:34 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:36 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:24:36 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:37 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:24:38 [info]: Sleeping for 5 seconds
+2025-01-31 06:24:44 [info]: Mouse moved to center of element at (503.1000213623047, 657.1000366210938)
+2025-01-31 06:24:44 [info]: Element clicked
+2025-01-31 06:24:44 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:24:44 [info]: First checkbox checked
+2025-01-31 06:24:44 [info]: Sleeping for 3 seconds
+2025-01-31 06:24:47 [info]: Mouse moved to center of element at (503.1000213623047, 748.2999877929688)
+2025-01-31 06:24:48 [info]: Element clicked
+2025-01-31 06:24:48 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:24:49 [info]: Second checkbox checked
+2025-01-31 06:24:49 [info]: Sleeping for 3 seconds
+2025-01-31 06:24:52 [info]: Sleeping for 2 seconds
+2025-01-31 06:24:54 [info]: Mouse moved to center of element at (781.5999908447266, 483.00001525878906)
+2025-01-31 06:24:54 [info]: Element clicked
+2025-01-31 06:24:54 [info]: Sleeping for 0.5 seconds
+2025-01-31 06:24:55 [info]: Go button clicked
+2025-01-31 06:24:55 [info]: Sleeping for 2 seconds
+2025-01-31 06:25:57 [error]: Error in completing booking: locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:465:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:25:57 [error]: Error during booking process: Error in CompleteBooking
+Error: Error in CompleteBooking
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:553:23
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.throw (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at rejected (C:\Projects\Cons_Reg_TS\src\HU_booking.js:6:65)
+2025-01-31 06:25:57 [info]: Browser context closed
+2025-01-31 06:25:57 [info]: Temporary profiles directory removed
+2025-01-31 06:25:57 [info]: Sleeping for 1 seconds
+2025-01-31 06:25:59 [info]: Sleeping for 0.07605689603459728 seconds
+2025-01-31 06:25:59 [info]: Sleeping for 0.07974837898220487 seconds
+2025-01-31 06:25:59 [info]: Sleeping for 0.02715646043285391 seconds
+2025-01-31 06:25:59 [info]: Sleeping for 0.07224585407849009 seconds
+2025-01-31 06:25:59 [info]: Мышь перемещена к (92, 423)
+2025-01-31 06:25:59 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:26:00 [info]: Browser setup successful
+2025-01-31 06:26:32 [error]: Error during booking process: page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:649:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:26:32 [info]: Browser context closed
+2025-01-31 06:26:32 [info]: Temporary profiles directory removed
+2025-01-31 06:26:32 [info]: Sleeping for 1 seconds
+2025-01-31 06:26:33 [info]: Sleeping for 1.0280211283246556 seconds
+2025-01-31 06:26:34 [info]: Sleeping for 0.08350806341247688 seconds
+2025-01-31 06:26:35 [info]: Sleeping for 0.05221438896357786 seconds
+2025-01-31 06:26:35 [info]: Sleeping for 0.0727142946307541 seconds
+2025-01-31 06:26:35 [info]: Sleeping for 0.0837100359836169 seconds
+2025-01-31 06:26:35 [info]: Sleeping for 0.0875208588254483 seconds
+2025-01-31 06:26:35 [info]: Мышь перемещена к (295, 63)
+2025-01-31 06:26:35 [info]: Sleeping for 1.1 seconds
+2025-01-31 06:26:36 [info]: Browser setup successful
+2025-01-31 06:26:47 [info]: Checking if IP is blocked...
+2025-01-31 06:26:47 [info]: Sleeping for 3 seconds
+2025-01-31 06:26:50 [info]: IP block check result: blocked
+2025-01-31 06:26:50 [error]: IP is blocked
+2025-01-31 06:26:50 [error]: Error during booking process: IP is blocked
+Error: IP is blocked
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:661:31
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:26:50 [info]: Browser context closed
+2025-01-31 06:26:50 [info]: Temporary profiles directory removed
+2025-01-31 06:26:50 [info]: Sleeping for 1 seconds
+2025-01-31 06:26:52 [info]: Sleeping for 0.04881290913063612 seconds
+2025-01-31 06:26:52 [info]: Мышь перемещена к (728, 149)
+2025-01-31 06:26:52 [info]: Sleeping for 0.1 seconds
+2025-01-31 06:26:52 [info]: Browser setup successful
+2025-01-31 06:27:26 [info]: Checking if IP is blocked...
+2025-01-31 06:27:26 [info]: Sleeping for 2 seconds
+2025-01-31 06:27:28 [info]: IP block check result: not blocked
+2025-01-31 06:27:28 [info]: Mouse moved to center of element at (1185.3624877929688, 54.00000190734863)
+2025-01-31 06:27:28 [info]: Element clicked
+2025-01-31 06:27:28 [info]: Sleeping for 1.5 seconds
+2025-01-31 06:27:30 [info]: Language selector found and clicked
+2025-01-31 06:27:30 [error]: Error in language selection: page.waitForSelector: Target page, context or browser has been closed
+page.waitForSelector: Target page, context or browser has been closed
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:254:43
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:27:30 [error]: Error during booking process: page.waitForSelector: Target page, context or browser has been closed
+page.waitForSelector: Target page, context or browser has been closed
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:254:43
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:27:30 [error]: Uncaught error in main function: Target page, context or browser has been closed

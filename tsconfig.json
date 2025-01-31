@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
+    "target": "ES2015",
     "module": "CommonJS",
     "strict": true,
     "esModuleInterop": true,
@@ -10,7 +10,8 @@
     "baseUrl": "./",
     "paths": {
       "@utils/*": ["src/helpers/*"]
-      }
+      },
+    "allowSyntheticDefaultImports": true
   },
   "include": ["src/**/*.ts", "tests/**/*.ts", "src/configs/playwright.config.ts"],
   "exclude": ["node_modules"]

@@ -1,0 +1,36 @@
+2025-01-28 22:48:29,326 - INFO - Database monitoring started...
+2025-01-28 22:48:29,327 - INFO - Processing user: (511976165, 'Daneel Gromov', 'HU', 1)
+2025-01-28 22:48:29,327 - INFO - node_path: C:\Programs\NodeJS\node.exe, exists: True
+2025-01-28 22:48:29,327 - INFO - script_path: C:\Projects\Cons_Reg_TS\src\HU_booking.ts, exists: True
+2025-01-28 22:48:31,543 - INFO - Executing command: pwsh -Command "Start-Process C:\Programs\NodeJS\node.exe -ArgumentList 'C:\Projects\Cons_Reg_TS\src\HU_booking.js', '{"name": "Daneel Gromov", "birth_date": "05.03.2001", "phone": "+79685172727", "email": "vsckzagency@gmail.com", "passport_number": "4523666234", "desired_date": "2025-02-20"}', '--experimental-specifier-resolution=node' -Verb RunAs -Wait"
+2025-01-28 22:48:32,991 - INFO - Command execution result: 0
+2025-01-28 22:48:32,991 - INFO - Command stdout: 
+2025-01-28 22:48:32,991 - INFO - Command stderr: 
+2025-01-28 22:48:32,991 - ERROR - Script execution failed with return code 0
+2025-01-28 22:48:32,991 - ERROR - STDOUT: 
+2025-01-28 22:48:32,991 - ERROR - STDERR: 
+2025-01-28 22:48:32,991 - INFO - Updated registration status for user 511976165 to not registered
+2025-01-28 22:48:32,992 - INFO - node_path: C:\Programs\NodeJS\node.exe, exists: True
+2025-01-28 22:48:32,992 - INFO - script_path: C:\Projects\Cons_Reg_TS\src\HU_booking.ts, exists: True
+2025-01-28 22:48:35,124 - INFO - Executing command: pwsh -Command "Start-Process C:\Programs\NodeJS\node.exe -ArgumentList 'C:\Projects\Cons_Reg_TS\src\HU_booking.js', '{"name": "Daneel Gromov", "birth_date": "05.03.2001", "phone": "+79685172727", "email": "vsckzagency@gmail.com", "passport_number": "4523666234", "desired_date": "2025-02-20"}', '--experimental-specifier-resolution=node' -Verb RunAs -Wait"
+2025-01-28 22:48:36,508 - INFO - Command execution result: 0
+2025-01-28 22:48:36,508 - INFO - Command stdout: 
+2025-01-28 22:48:36,508 - INFO - Command stderr: 
+2025-01-28 22:48:36,508 - ERROR - Script execution failed with return code 0
+2025-01-28 22:48:36,508 - ERROR - STDOUT: 
+2025-01-28 22:48:36,508 - ERROR - STDERR: 
+2025-01-28 22:48:36,508 - INFO - Updated registration status for user 511976165 to not registered
+2025-01-28 22:48:36,509 - INFO - node_path: C:\Programs\NodeJS\node.exe, exists: True
+2025-01-28 22:48:36,509 - INFO - script_path: C:\Projects\Cons_Reg_TS\src\HU_booking.ts, exists: True
+2025-01-28 22:48:38,647 - INFO - Executing command: pwsh -Command "Start-Process C:\Programs\NodeJS\node.exe -ArgumentList 'C:\Projects\Cons_Reg_TS\src\HU_booking.js', '{"name": "Daneel Gromov", "birth_date": "05.03.2001", "phone": "+79685172727", "email": "vsckzagency@gmail.com", "passport_number": "4523666234", "desired_date": "2025-02-20"}', '--experimental-specifier-resolution=node' -Verb RunAs -Wait"
+2025-01-28 22:48:40,038 - INFO - Command execution result: 0
+2025-01-28 22:48:40,039 - INFO - Command stdout: 
+2025-01-28 22:48:40,039 - INFO - Command stderr: 
+2025-01-28 22:48:40,039 - ERROR - Script execution failed with return code 0
+2025-01-28 22:48:40,039 - ERROR - STDOUT: 
+2025-01-28 22:48:40,039 - ERROR - STDERR: 
+2025-01-28 22:48:40,039 - INFO - Updated registration status for user 511976165 to not registered
+2025-01-28 22:48:40,039 - INFO - node_path: C:\Programs\NodeJS\node.exe, exists: True
+2025-01-28 22:48:40,039 - INFO - script_path: C:\Projects\Cons_Reg_TS\src\HU_booking.ts, exists: True
+2025-01-28 22:48:40,504 - INFO - Script execution interrupted by user.
+2025-01-28 22:48:41,018 - INFO - Monitoring stopped by user.

@@ -1,0 +1,134 @@
+2025-01-31 06:12:04 [error]: Error during booking process: page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:649:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:12:38 [error]: Error during booking process: page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:649:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:13:12 [error]: Error during booking process: page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:649:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:17:12 [error]: Error in completing booking: locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:465:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:17:12 [error]: Error during booking process: Error in CompleteBooking
+Error: Error in CompleteBooking
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:553:23
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.throw (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at rejected (C:\Projects\Cons_Reg_TS\src\HU_booking.js:6:65)
+2025-01-31 06:21:24 [error]: Error in completing booking: locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:465:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:21:24 [error]: Error during booking process: Error in CompleteBooking
+Error: Error in CompleteBooking
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:553:23
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.throw (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at rejected (C:\Projects\Cons_Reg_TS\src\HU_booking.js:6:65)
+2025-01-31 06:22:00 [error]: Error during booking process: page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:649:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:25:57 [error]: Error in completing booking: locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+locator.waitFor: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Хорошо")') to be visible[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:465:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:25:57 [error]: Error during booking process: Error in CompleteBooking
+Error: Error in CompleteBooking
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:553:23
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.throw (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at rejected (C:\Projects\Cons_Reg_TS\src\HU_booking.js:6:65)
+2025-01-31 06:26:32 [error]: Error during booking process: page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+page.goto: net::ERR_TIMED_OUT at https://konzinfoidopont.mfa.gov.hu/
+Call log:
+[2m  - navigating to "https://konzinfoidopont.mfa.gov.hu/", waiting until "load"[22m
+
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:649:47
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:26:50 [error]: IP is blocked
+2025-01-31 06:26:50 [error]: Error during booking process: IP is blocked
+Error: IP is blocked
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:661:31
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:27:30 [error]: Error in language selection: page.waitForSelector: Target page, context or browser has been closed
+page.waitForSelector: Target page, context or browser has been closed
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:254:43
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:27:30 [error]: Error during booking process: page.waitForSelector: Target page, context or browser has been closed
+page.waitForSelector: Target page, context or browser has been closed
+    at C:\Projects\Cons_Reg_TS\src\HU_booking.js:254:43
+    at step (C:\Projects\Cons_Reg_TS\src\HU_booking.js:33:23)
+    at Object.next (C:\Projects\Cons_Reg_TS\src\HU_booking.js:14:53)
+    at fulfilled (C:\Projects\Cons_Reg_TS\src\HU_booking.js:5:58)
+2025-01-31 06:27:30 [error]: Uncaught error in main function: Target page, context or browser has been closed
